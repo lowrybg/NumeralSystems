@@ -1,0 +1,1 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config

@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\02.BinaryDecimal\bin\Debug\02.BinaryDecimal.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\02.BinaryDecimal\bin\Debug\02.BinaryDecimal.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\02.BinaryDecimal\bin\Debug\02.BinaryDecimal.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\02.BinaryDecimal\obj\Debug\02.BinaryDecimal.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\02.BinaryDecimal\obj\Debug\02.BinaryDecimal.pdb

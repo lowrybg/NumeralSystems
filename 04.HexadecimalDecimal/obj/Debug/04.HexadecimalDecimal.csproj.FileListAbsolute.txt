@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalDecimal\obj\Debug\04.HexadecimalDecimal.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\04.HexadecimalDecimal\obj\Debug\04.HexadecimalDecimal.pdb

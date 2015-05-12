@@ -1,0 +1,5 @@
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+c:\users\esf-imb20\documents\visual studio 2013\Projects\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.pdb
